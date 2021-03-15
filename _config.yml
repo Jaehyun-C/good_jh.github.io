@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "CHOE JAEHYUN (ROBIN)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : ""
   location         : "South Korea, Icheon"
   email            :
   links:
